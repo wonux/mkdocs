@@ -1,6 +1,6 @@
 site_name: Wonux Blog
-site_url: http://wonux.github.io
-repo_url: https://github.com/wonux
+site_url: http://wonux.github.io/mkdocs
+repo_url: https://github.com/wonux/mkdocs
 site_author: wonux
 pages:
 - Home: index.md
