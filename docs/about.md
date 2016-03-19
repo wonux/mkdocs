@@ -8,12 +8,16 @@
 Put the fun back into computing.Use Linux,BSD.
 
 ### 关于作者：
-静态博客：http://wonux.github.io
 
-CSDN：http://blog.csdn.net/aceking10
+- 微博:[weibo.com/wonux](http://weibo.com/wonux)
+- Email:[wonux@qq.com](wonux@qq.com)
+- Github:[github.com/wonux](https://github.com/wonux)
+- 开源静态博客:
+  - Github Pages:[wonux.github.io](http://wonux.github.io);
+  - Coding Pages:[wonux.coding.me](http://wonux.coding.me)
+- 博客园:[www.cnblogs.com/wonux](http://www.cnblogs.com/wonux)
+- CSDN:[blog.csdn.net/wonux](http://blog.csdn.net/wonux)
+- 豆瓣:[https://www.douban.com/people/wonux/](https://www.douban.com/people/wonux/)
+- 豆瓣小站:[https://site.douban.com/271881/](https://site.douban.com/271881/)
 
-博客园：http://www.cnblogs.com/wonux
 
-Email：aceking@wo.cn
-
-微博：weibo.com/wonux
