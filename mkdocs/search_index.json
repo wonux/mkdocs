@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/about/", 
-            "text": "\u5173\u4e8eWonux\u540d\u5b57\uff1a\n\n\n\n\n\u89e3\u4e00\uff1aMr Wong's UX system\".\n\"Won\"\u53d6\u81ea\u738b\u59d3\"Wong\"\uff0c\u53e6\u5916\"Wo\"\u62fc\u97f3\"\u6211\"\u4e4b\u610f\uff0c\u5373\u6211\u7684UX\u7cfb\u7edf(UNIX-LIKE)\u4f7f\u7528\u5fc3\u5f97\u4e4b\u610f\u3002\n\n\n\u89e3\u4e8c\uff1a\u4e1a\u4f59Linux\u7231\u597d\u8005\uff0c\u5c31\u804c\u4e2d\u56fd\u8054\u901a\uff0c\u53d7\u542f\u53d1\u4e8e\"\u6c83\"\u54c1\u724c\uff0c\"Wo\"\u4e3a\u5c71\u6cb3\u65e5\u6708\uff0c\u65e0\u9650\u5bbd\u5e7f\u4e4b\u610f\u3002\n\n\n\u89e3\u4e09\uff1a\u672c\u4eba\u59d3\"\u738b\"\uff0c\u7f51\u540d\"\u5b64\u9010\u738b\"\uff0cWonux\u81f4\u656cLinus\uff0c\u563f\u563f\u3002\n\n\n\n\n\u5173\u4e8e\u672c\u7ad9\u5185\u5bb9\uff1a\n\n\nPut the fun back into computing.Use Linux,BSD.\n\n\n\u5173\u4e8e\u4f5c\u8005\uff1a\n\n\n\u9759\u6001\u535a\u5ba2\uff1ahttp://wonux.github.io\n\n\nCSDN\uff1ahttp://blog.csdn.net/aceking10\n\n\n\u535a\u5ba2\u56ed\uff1ahttp://www.cnblogs.com/wonux\n\n\nEmail\uff1aaceking@wo.cn\n\n\n\u5fae\u535a\uff1aweibo.com/wonux", 
+            "text": "\u5173\u4e8eWonux\u540d\u5b57\uff1a\n\n\n\n\n\u89e3\u4e00\uff1aMr Wong's UX system\".\n\"Won\"\u53d6\u81ea\u738b\u59d3\"Wong\"\uff0c\u53e6\u5916\"Wo\"\u62fc\u97f3\"\u6211\"\u4e4b\u610f\uff0c\u5373\u6211\u7684UX\u7cfb\u7edf(UNIX-LIKE)\u4f7f\u7528\u5fc3\u5f97\u4e4b\u610f\u3002\n\n\n\u89e3\u4e8c\uff1a\u4e1a\u4f59Linux\u7231\u597d\u8005\uff0c\u5c31\u804c\u4e2d\u56fd\u8054\u901a\uff0c\u53d7\u542f\u53d1\u4e8e\"\u6c83\"\u54c1\u724c\uff0c\"Wo\"\u4e3a\u5c71\u6cb3\u65e5\u6708\uff0c\u65e0\u9650\u5bbd\u5e7f\u4e4b\u610f\u3002\n\n\n\u89e3\u4e09\uff1a\u672c\u4eba\u59d3\"\u738b\"\uff0c\u7f51\u540d\"\u5b64\u9010\u738b\"\uff0cWonux\u81f4\u656cLinus\uff0c\u563f\u563f\u3002\n\n\n\n\n\u5173\u4e8e\u672c\u7ad9\u5185\u5bb9\uff1a\n\n\nPut the fun back into computing.Use Linux,BSD.\n\n\n\u5173\u4e8e\u4f5c\u8005\uff1a\n\n\n\n\n\u5fae\u535a:\nweibo.com/wonux\n\n\nEmail:\nwonux@qq.com\n\n\nGithub:\ngithub.com/wonux\n\n\n\u5f00\u6e90\u9759\u6001\u535a\u5ba2:\n\n\nGithub Pages:\nwonux.github.io\n;\n\n\nCoding Pages:\nwonux.coding.me\n\n\n\u535a\u5ba2\u56ed:\nwww.cnblogs.com/wonux\n\n\nCSDN:\nblog.csdn.net/wonux\n\n\n\u8c46\u74e3:\nhttps://www.douban.com/people/wonux/\n\n\n\u8c46\u74e3\u5c0f\u7ad9:\nhttps://site.douban.com/271881/", 
             "title": "About"
         }, 
         {
@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/about/#_2", 
-            "text": "\u9759\u6001\u535a\u5ba2\uff1ahttp://wonux.github.io  CSDN\uff1ahttp://blog.csdn.net/aceking10  \u535a\u5ba2\u56ed\uff1ahttp://www.cnblogs.com/wonux  Email\uff1aaceking@wo.cn  \u5fae\u535a\uff1aweibo.com/wonux", 
+            "text": "\u5fae\u535a: weibo.com/wonux  Email: wonux@qq.com  Github: github.com/wonux  \u5f00\u6e90\u9759\u6001\u535a\u5ba2:  Github Pages: wonux.github.io ;  Coding Pages: wonux.coding.me  \u535a\u5ba2\u56ed: www.cnblogs.com/wonux  CSDN: blog.csdn.net/wonux  \u8c46\u74e3: https://www.douban.com/people/wonux/  \u8c46\u74e3\u5c0f\u7ad9: https://site.douban.com/271881/", 
             "title": "\u5173\u4e8e\u4f5c\u8005\uff1a"
         }
     ]
